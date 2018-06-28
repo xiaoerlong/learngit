@@ -17,4 +17,4 @@ Git
 \f0\b0 \cf2  free software distributed under the GPL.\
 \pard\pardeftab720\partightenfactor0
 \cf2 \cb3 Git has a mutable index called stage.\
-Git tracks changes.}
+Git tracks changes of files.}
